@@ -1,5 +1,7 @@
-En este an·lisis exploratorio de datos veremos cu·les son las caracterÌsticas que hacen que una canciÛn entre en los TOPís Mundiales en Spotify.
+En este an√°lisis exploratorio de datos veremos cu√°les son las caracter√≠sticas que hacen que una canci√≥n entre en los TOP‚Äôs Mundiales en Spotify.
 
-Para ello intentaremos crear la ìcanciÛn perfectaî atendiendo a los criterios que vayamos sacando en el an·lisis que haremos a partir de los datos proporcionados por Spotify.
+Para ello intentaremos crear la ‚Äúcanci√≥n perfecta‚Äù atendiendo a los criterios que vayamos sacando en el an√°lisis que haremos a partir de los datos proporcionados por Spotify.
 
-Luego comparemos nuestra ìcanciÛn hipotÈticaî con una real del TOP de Spotify para ver que tan acertados o no estamos y sacaremos nuestras conclusiones.
+Luego comparemos nuestra ‚Äúcanci√≥n hipot√©tica‚Äù con una real del TOP de Spotify para ver que tan acertados o no estamos y sacaremos nuestras conclusiones.
+
+En este repositorio encontrar√°s tambi√©n un PowerPoint con una presentaci√≥n de todo el an√°lisis.
